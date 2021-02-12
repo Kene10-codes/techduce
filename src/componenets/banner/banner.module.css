@@ -1,0 +1,32 @@
+.text {
+     font-size: 4rem;
+     font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+     color: #131d27;
+     font-weight: 900;
+     font-style: normal;
+}
+
+.list {
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #131d27;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 1rem;
+    line-height: 16px;
+    padding-bottom: 10px;
+    list-style-type: none;
+}
+
+.checkSvg {
+    width: 30px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline;
+    margin-right: 5px;
+}
+
+.input::placeholder {
+    font-size: .7rem;
+}
